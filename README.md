@@ -29,8 +29,8 @@ This Python script implements a **grid trading strategy** for stablecoin pairs (
 4. Create an `.env` file in the script's working directory with your Binance Testnet API keys:
 
    ```text
-   BINANCE_API_KEY=your_testnet_api_key
-   BINANCE_API_SECRET=your_testnet_api_secret
+   api_key=your_testnet_api_key
+   api_secret=your_testnet_api_secret
    ```
 
    Replace `your_testnet_api_key` and `your_testnet_api_secret` with your actual Binance Testnet credentials. If using the provided script's keys, ensure they are valid.
