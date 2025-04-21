@@ -51,6 +51,12 @@ This Python script implements a **grid trading strategy** for stablecoin pairs (
    10
    ```
 
+6. Stop
+
+   ```bash
+   pkill -f testnet_spot.py
+   ```
+
    
 
 ## Execution Flow
